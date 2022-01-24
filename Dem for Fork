@@ -1,0 +1,5 @@
+If you were a user that doesn't have permission to branch the peice of code, you would have to fork it!
+Unfortunatley i can't fork my own project, so i will explain it to you. (i have tested this on a different repository.)
+Look at the top right of your screen, you will see a fork button, if you click it then you clone that repository and you can work on it, on your own.
+When you have made your changes, just like you would with a branch, you want to commit the changes, then go on the pull requests button and click on the button 'create pull request'
+If the owner accepts your additions, it will be added to the peice of code.
